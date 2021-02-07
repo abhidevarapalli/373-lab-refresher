@@ -1,10 +1,7 @@
 require 'test_helper'
 
 class ChildTest < ActiveSupport::TestCase
-  # TODO: Relationship macros
-  
-  # TODO: Validation macros
-
-  # TODO: Context testing
+  should have_many(:chores)
+  should have_many(:tasks).through(:chores)
 
 end
