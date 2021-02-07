@@ -57,11 +57,13 @@
       ],
       "/Users/abhid/Desktop/67-373/lab refresher/lab5-choretracker-starter/app/models/chore.rb": [
         1,
+        1,
+        1,
         null
       ],
       "/Users/abhid/Desktop/67-373/lab refresher/lab5-choretracker-starter/app/models/task.rb": [
-        0,
-        0
+        1,
+        null
       ],
       "/Users/abhid/Desktop/67-373/lab refresher/lab5-choretracker-starter/app/controllers/application_controller.rb": [
         0,
@@ -315,6 +317,6 @@
         0
       ]
     },
-    "timestamp": 1612733668
+    "timestamp": 1612734840
   }
 }
